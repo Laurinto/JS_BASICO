@@ -6,3 +6,5 @@
 
 ## Cosas que se subirán en la siguiente versión:
 - Contenido de la página
+- Ajustes en el tamaño de las fuentes
+- Corrección de otros errores gráficos
